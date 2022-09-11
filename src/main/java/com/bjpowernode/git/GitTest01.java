@@ -10,5 +10,6 @@ public class GitTest01 {
         System.out.println("master test before merge!");  //master branch
         System.out.println("hot-fix test!");  //hot-fix branch
         System.out.println("master branch push test!");  //master branch
+        System.out.println("master branch pull test!");  //master branch,edit on firefox
     }
 }
